@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mentor</h1>
 <h3 align="center">A passionate frontend developer from Kosovo</h3>
 
-- 🌱 I’m currently learning **react, nextjs**
+- 🌱 I’m currently learning **react, react-native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MentorAliu](https://github.com/MentorAliu)
 
